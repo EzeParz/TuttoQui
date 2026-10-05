@@ -14,7 +14,7 @@ function ContainerDeProductosCongelados() {
 
         async function Datos() {
             try {
-                const respuesta = await fetch('/public/data/ProdCongelados.json');
+                const respuesta = await fetch('/data/ProdCongelados.json');
                 const data = await respuesta.json();
                 setProd(data);
             } catch (error) {

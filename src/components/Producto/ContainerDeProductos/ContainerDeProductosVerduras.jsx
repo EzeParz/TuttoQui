@@ -14,7 +14,7 @@ function ContainerDeProductosVerduras() {
 
         async function Datos() {
             try {
-                const respuesta = await fetch('/public/data/ProdVerduras.json');
+                const respuesta = await fetch('/data/ProdVerduras.json');
                 const data = await respuesta.json();
                 setProd(data);
             } catch (error) {
