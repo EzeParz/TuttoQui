@@ -1,0 +1,125 @@
+.tutto-footer {
+  margin-top: 4rem;
+  background: #fff;
+  border-top: 4px solid var(--color-rojo, #e30512);
+  color: #212529;
+}
+
+.tutto-footer-content {
+  display: grid;
+  grid-template-columns: 1.2fr .7fr 1fr;
+  gap: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.tutto-footer-logo {
+  display: block;
+  width: 15rem;
+  max-width: 100%;
+  height: auto;
+}
+
+.tutto-footer-brand p {
+  margin: 1rem 0 0;
+  color: #62666b;
+  line-height: 1.8;
+}
+
+.tutto-footer-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: .75rem;
+}
+.tutto-footer-nav a {
+  font-size: 1.1rem;
+}
+
+.tutto-footer-nav h2,
+.tutto-footer-eyebrow {
+  font-family: 'Syncopate', sans-serif;
+  font-weight: 700;
+  font-size: .95rem;
+  letter-spacing: .04em;
+}
+
+.tutto-footer-nav h2 {
+  margin: .5rem 0 .75rem;
+}
+
+.tutto-footer a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.tutto-footer a:hover {
+  color: var(--color-rojo-hover, #b8040e);
+}
+
+.tutto-footer a:focus-visible {
+  outline: 2px solid var(--color-rojo, #e30512);
+  outline-offset: 5px;
+  border-radius: 2px;
+}
+
+.tutto-footer-eyebrow {
+  color: var(--color-rojo, #e30512);
+}
+
+.tutto-footer-message p {
+  margin: .75rem 0 1rem;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.tutto-footer-message p span {
+  color: var(--color-rojo, #e30512);
+}
+
+.tutto-footer-message a {
+  display: inline-flex;
+  align-items: center;
+  gap: .6rem;
+  font-size: .9rem;
+}
+
+.tutto-footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  border-top: 1px solid #e8e8e8;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  color: #62666b;
+  font-size: .8rem;
+}
+
+@media (max-width: 767px) {
+  .tutto-footer-content {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .tutto-footer-brand {
+    grid-column: 1 / -1;
+  }
+
+  .tutto-footer-message p {
+    font-size: 1.35rem;
+  }
+
+  .tutto-footer-bottom {
+    flex-direction: column;
+    gap: .5rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .tutto-footer-content {
+    grid-template-columns: 1fr;
+  }
+}

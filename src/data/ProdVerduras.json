@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Acelga congelada",
+    "descripcion": "Bolsa de 1 kg",
+    "precio": 8000,
+    "stock": 50,
+    "imagen": "/img/verduras/acelga.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Cebolla Blanca",
+    "descripcion": "Bolsa de 1 kg",
+    "precio": 6500,
+    "stock": 50,
+    "imagen": "/img/verduras/Cebolla.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Champignones Feteados",
+    "descripcion": "Bolsa de 500 g",
+    "precio": 4500,
+    "stock": 25,
+    "imagen": "/img/verduras/Champignon.png"
+  },
+    {
+    "id": 4,
+    "nombre": "Esparragos congelados",
+    "descripcion": "Bolsa de 500 g",
+    "precio": 7500,
+    "stock": 15,
+    "imagen": "/img/verduras/Esparragos.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Pimiento Rojo en cubos",
+    "descripcion": "Bolsa de 500 g",
+    "precio": 3850,
+    "stock": 20,
+    "imagen": "/img/verduras/Pimiento.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Remolacha en cubos",
+    "descripcion": "Bolsa de 500 g",
+    "precio": 2500,
+    "stock": 15,
+    "imagen": "/img/verduras/Remolacha.png"
+  }
+]

@@ -1,0 +1,16 @@
+:root {
+  --bs-body-font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+}
+
+button, .btn {
+  font-weight: 600;
+}

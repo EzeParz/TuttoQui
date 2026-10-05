@@ -1,0 +1,58 @@
+[
+  {
+    "id": 13,
+    "nombre": "Barritas de Mozzarella",
+    "descripcion": "Bolsa de 300 g",
+    "precio": 6000,
+    "stock": 30,
+    "imagen": "/img/congelados/barrita-de-mozzarella.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Formitas de Pollo",
+    "descripcion": "Bolsa de 300 g",
+    "precio": 6300,
+    "stock": 20,
+    "imagen": "/img/congelados/formitas-de-pollo.png"
+  },
+  {
+    "id": 15,
+    "nombre": "Medallones de Pollo",
+    "descripcion": "Bolsa de 300 g",
+    "precio": 5800,
+    "stock": 25,
+    "imagen": "/img/congelados/congelados-artico-medallones-de-pollo.png"
+  },
+    {
+    "id": 16,
+    "nombre": "Milanesa Crocante a las Finas Hierbas",
+    "descripcion": "Bolsa de 500 g",
+    "precio": 14500,
+    "stock": 15,
+    "imagen": "/img/congelados/mila-crocante-finas-hierbas-linea-artico.png"
+  },
+  {
+    "id": 17,
+    "nombre": "Nuggets de Pollo",
+    "descripcion": "Bolsa de 500 g",
+    "precio": 6250,
+    "stock": 20,
+    "imagen": "/img/congelados/nuggets.png"
+  },
+  {
+    "id": 18,
+    "nombre": "Paella",
+    "descripcion": "Bolsa de 400 g",
+    "precio": 7500,
+    "stock": 15,
+    "imagen": "/img/congelados/paella.png"
+  },
+  {
+    "id": 19,
+    "nombre": "Rabas",
+    "descripcion": "Bolsa de 300 g",
+    "precio": 7500,
+    "stock": 15,
+    "imagen": "/img/congelados/rabas.png"
+  }
+]

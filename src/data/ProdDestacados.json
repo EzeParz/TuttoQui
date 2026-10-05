@@ -1,0 +1,66 @@
+[
+  {
+    "id": 18,
+    "nombre": "Paella",
+    "descripcion": "Bolsa de 400 g",
+    "precio": 7500,
+    "stock": 15,
+    "imagen": "/img/congelados/paella.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Cebolla Blanca",
+    "descripcion": "Bolsa de 1 kg",
+    "precio": 6500,
+    "stock": 50,
+    "imagen": "/img/verduras/Cebolla.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Moras",
+    "descripcion": "Bolsa de 500 g",
+    "precio": 6500,
+    "stock": 15,
+    "imagen": "/img/frutas/Moras.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Frutos Rojos",
+    "descripcion": "Bolsa de 500 g",
+    "precio": 8500,
+    "stock": 25,
+    "imagen": "/img/frutas/frutosrojos.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Pimiento Rojo en cubos",
+    "descripcion": "Bolsa de 500 g",
+    "precio": 3850,
+    "stock": 20,
+    "imagen": "/img/verduras/Pimiento.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Formitas de Pollo",
+    "descripcion": "Bolsa de 300 g",
+    "precio": 6300,
+    "stock": 20,
+    "imagen": "/img/congelados/formitas-de-pollo.png"
+  },
+  {
+    "id": 15,
+    "nombre": "Medallones de Pollo",
+    "descripcion": "Bolsa de 300 g",
+    "precio": 5800,
+    "stock": 25,
+    "imagen": "/img/congelados/congelados-artico-medallones-de-pollo.png"
+  },
+  {
+    "id": 19,
+    "nombre": "Rabas",
+    "descripcion": "Bolsa de 300 g",
+    "precio": 7500,
+    "stock": 15,
+    "imagen": "/img/congelados/rabas.png"
+  }
+]
