@@ -17,7 +17,7 @@ function ContainerDeProductosCongelados() {
                 const respuesta = await fetch('/data/ProdCongelados.json');
                 const data = await respuesta.json();
                 setProd(data);
-            } catch (error) {
+            } catch (error) { 
                 setError('Error al cargar los productos');
             } finally {
                 setCargando(false);
